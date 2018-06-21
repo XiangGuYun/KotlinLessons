@@ -6,4 +6,5 @@ public class Child extends Parent {
         name = "孩子";
     }
 
+
 }
